@@ -1,0 +1,146 @@
+[
+    {
+        "value": "beauty",
+        "label": "Beauty",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/beauty"
+    },
+    {
+        "value": "fragrances",
+        "label": "Fragrances",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/fragrances"
+    },
+    {
+        "value": "furniture",
+        "label": "Furniture",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/furniture"
+    },
+    {
+        "value": "groceries",
+        "label": "Groceries",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/groceries"
+    },
+    {
+        "value": "home-decoration",
+        "label": "Home Decoration",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/home-decoration"
+    },
+    {
+        "value": "kitchen-accessories",
+        "label": "Kitchen Accessories",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/kitchen-accessories"
+    },
+    {
+        "value": "laptops",
+        "label": "Laptops",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/laptops"
+    },
+    {
+        "value": "mens-shirts",
+        "label": "Mens Shirts",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/mens-shirts"
+    },
+    {
+        "value": "mens-shoes",
+        "label": "Mens Shoes",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/mens-shoes"
+    },
+    {
+        "value": "mens-watches",
+        "label": "Mens Watches",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/mens-watches"
+    },
+    {
+        "value": "mobile-accessories",
+        "label": "Mobile Accessories",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/mobile-accessories"
+    },
+    {
+        "value": "motorcycle",
+        "label": "Motorcycle",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/motorcycle"
+    },
+    {
+        "value": "skin-care",
+        "label": "Skin Care",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/skin-care"
+    },
+    {
+        "value": "smartphones",
+        "label": "Smartphones",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/smartphones"
+    },
+    {
+        "value": "sports-accessories",
+        "label": "Sports Accessories",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/sports-accessories"
+    },
+    {
+        "value": "sunglasses",
+        "label": "Sunglasses",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/sunglasses"
+    },
+    {
+        "value": "tablets",
+        "label": "Tablets",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/tablets"
+    },
+    {
+        "value": "tops",
+        "label": "Tops",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/tops"
+    },
+    {
+        "value": "vehicle",
+        "label": "Vehicle",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/vehicle"
+    },
+    {
+        "value": "womens-bags",
+        "label": "Womens Bags",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/womens-bags"
+    },
+    {
+        "value": "womens-dresses",
+        "label": "Womens Dresses",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/womens-dresses"
+    },
+    {
+        "value": "womens-jewellery",
+        "label": "Womens Jewellery",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/womens-jewellery"
+    },
+    {
+        "value": "womens-shoes",
+        "label": "Womens Shoes",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/womens-shoes"
+    },
+    {
+        "value": "womens-watches",
+        "label": "Womens Watches",
+        "checked": false,
+        "url": "https://dummyjson.com/products/category/womens-watches"
+    }
+]
