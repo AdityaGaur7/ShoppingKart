@@ -29,6 +29,9 @@ const port = 8000 || process.env.PORT
 
 const endpointSecret = process.env.ENDPOINT_SECRET;
 
+server.post('/',async(req,res)=>{
+  res.send('hello bhai')
+})
 server.post(
   '/webhook',
   express.raw({ type: 'application/json' }),
