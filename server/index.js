@@ -24,7 +24,7 @@ const { isAuth, sanitizeUser, cookieExtractor } = require('./services/common');
 const path = require('path');
 const { Order } = require('./model/Order');
 const { env } = require('process');
-
+const port = 8000 || process.env.PORT
 // Webhook
 
 const endpointSecret = process.env.ENDPOINT_SECRET;
@@ -207,6 +207,6 @@ async function main() {
   console.log('database connected');
 }
 
-server.listen(process.env.PORT, () => {
-  console.log('server started');
+server.listen(port, () => {
+  console.log(`server started on ${port}`);
 });
